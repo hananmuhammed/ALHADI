@@ -194,8 +194,8 @@ font-weight: 400;
     }
 
 #one .middle{
-    margin-left: 175px;
-    margin-top: 293px;
+    padding-left: 175px;
+    padding-top: 293px;
     padding-bottom: 30px;
     color: white;
     font-size: 31px;
