@@ -107,7 +107,7 @@ br.clear {
     overflow:hidden ;   
     display: flex;
     align-items: center;
-    
+	position: relative;
 }
 
 #one .left{
