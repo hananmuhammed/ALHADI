@@ -119,6 +119,7 @@ br.clear {
     position: fixed;
     border-bottom-right-radius: 6em;
     height: 280.5px;
+    top: -135px;
 }
 #one .left a{
     padding-left: 33px;
@@ -146,6 +147,7 @@ br.clear {
     height: 93px;
     background-color: #375c6e;
     border-bottom-left-radius: 4.5em;
+	top: -38px;
 }
 
 #one .right .instagram{
